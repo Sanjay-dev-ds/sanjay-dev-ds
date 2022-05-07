@@ -1,15 +1,8 @@
-![](https://komarev.com/ghpvc/?username=sanjay-dev-ds&color=blue)
-<--
 
-<div align="center" width="50">
-
-<img src="https://i.imgr.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
--->
 
 ## 🔥 Streak Stats
   <br>
+   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-dev-ds&theme=algolia" alt="7oSkaaa" />
 
 </p>
@@ -40,3 +33,8 @@
 
 
 <br/>
+
+
+
+![](https://komarev.com/ghpvc/?username=sanjay-dev-ds&color=blue)
+
