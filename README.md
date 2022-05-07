@@ -8,14 +8,35 @@
 </div>
 -->
 
-## 🔥 Github Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjay-dev-ds&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sanjay's Github Stats"> 
+## 🔥 Streak Stats
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-dev-ds&theme=algolia" alt="7oSkaaa" />
 
 </p>
 
 <br>
-<br>
-</br>
+
+## 📊 Github Stats
+
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/sanjay-dev-ds/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7sanjay-dev-ds&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/sanjay-dev-dsa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=sanjay-dev-ds's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
