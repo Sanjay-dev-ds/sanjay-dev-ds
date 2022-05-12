@@ -1,6 +1,8 @@
 ## Hi there, I am Sanjay 👋
 
 
+- 🌱 I’m currently learning Data Science
+- 📫 Reach out to me: sanjay28.js@gmail.com
 
 
 ## 🔥 Streak Stats
