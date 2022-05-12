@@ -36,6 +36,8 @@
   <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=sanjay-dev-ds&color=blue)
 
