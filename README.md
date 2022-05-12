@@ -37,7 +37,6 @@
 <a href="https://www.linkedin.com/in/sanjay-dev-ds/">
   <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 </p>
 
 <br>
