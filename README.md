@@ -19,7 +19,7 @@
 ## ⚡ Recent GitHub Activity
 
   <br/>
-   <a href="https://github.com/sanjay-dev-dsa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=sanjay-dev-ds's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sanjay-dev-dsa"><img alt="sanjay-dev-ds's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=sanjay-dev-ds's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
