@@ -42,5 +42,5 @@
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=sanjay-dev-ds&color=Blue)
+![](https://komarev.com/ghpvc/?username=sanjay-dev-ds&color=blue)
 
