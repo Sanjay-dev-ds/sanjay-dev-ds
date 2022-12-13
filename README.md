@@ -13,18 +13,6 @@
 </p>
 
 
-<br>
-
-
-## ⚡ Recent GitHub Activity
-
-  <br/>
-   <a href="https://github.com/sanjay-dev-dsa"><img alt="sanjay-dev-ds's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=sanjay-dev-ds's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
 ## 🔗 &nbsp;**Connect with me**
 
  <p align="center">
