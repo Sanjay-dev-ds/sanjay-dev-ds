@@ -27,7 +27,6 @@
 </a>
 </p>
 
-[![@sanjay_dev_ds's Holopin board](https://holopin.io/api/user/board?user=sanjay_dev_ds)](https://holopin.io/@sanjay_dev_ds)
 
 <br>
 <br>
