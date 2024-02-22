@@ -13,19 +13,7 @@
 </p>
 
 
-## 🔗 &nbsp;**Connect with me**
 
- <p align="center">
-  <a href="https://www.instagram.com/sanjayyi/">
-  <img align="left" alt="Shibin's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
-<a href="https://twitter.com/Sanjay__J">
-  <img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sanjay-dev-ds/">
-  <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</p>
 
 
 <br>
